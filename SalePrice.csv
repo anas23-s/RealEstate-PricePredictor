@@ -1,0 +1,177 @@
+,R2,R2a,diff,RMSE,MAE,features
+36,0.8065206516,0.8010728542,0.0054477974,0.048197819,0.0296551728,"[array(['BsmtFinSF2', 'BsmtUnfSF', 'GarageArea', 'MiscVal', 'BsmtHalfBath',
+       'MoSold', 'GarageYrBlt', 'FullBath', 'OpenPorchSF', 'YrSold',
+       'LowQualFinSF', 'EnclosedPorch', 'HalfBath', 'trois_3SsnPorch',
+       'PoolArea', 'Fireplaces', 'YearRemodAdd', 'TotalBsmtSF',
+       'BsmtFinSF1', 'WoodDeckSF', 'BsmtFullBath', 'MasVnrArea',
+       'ScreenPorch', 'KitchenAbvGr', 'LotArea', 'OverallCond',
+       'YearBuilt', 'un_1stFlrSF', 'BedroomAbvGr', 'GarageCars',
+       'deux_2ndFlrSF', 'TotRmsAbvGrd', 'MSSubClass', 'GrLivArea',
+       'OverallQual'], dtype=object)]"
+35,0.8065206516,0.8010728542,0.0054477974,0.048197819,0.0296551728,"[array(['BsmtUnfSF', 'GarageArea', 'MiscVal', 'BsmtHalfBath', 'MoSold',
+       'GarageYrBlt', 'FullBath', 'OpenPorchSF', 'YrSold', 'LowQualFinSF',
+       'EnclosedPorch', 'HalfBath', 'trois_3SsnPorch', 'TotalBsmtSF',
+       'PoolArea', 'BsmtFinSF1', 'Fireplaces', 'YearRemodAdd',
+       'WoodDeckSF', 'BsmtFullBath', 'MasVnrArea', 'ScreenPorch',
+       'KitchenAbvGr', 'LotArea', 'OverallCond', 'YearBuilt',
+       'un_1stFlrSF', 'BedroomAbvGr', 'GarageCars', 'deux_2ndFlrSF',
+       'TotRmsAbvGrd', 'MSSubClass', 'GrLivArea', 'OverallQual'],
+      dtype=object)]"
+34,0.8065200748,0.80124185,0.0052782247,0.0481978908,0.029654449,"[array(['GarageArea', 'MiscVal', 'BsmtHalfBath', 'MoSold', 'GarageYrBlt',
+       'FullBath', 'OpenPorchSF', 'YrSold', 'LowQualFinSF',
+       'EnclosedPorch', 'HalfBath', 'trois_3SsnPorch', 'PoolArea',
+       'TotalBsmtSF', 'Fireplaces', 'YearRemodAdd', 'BsmtFinSF1',
+       'WoodDeckSF', 'MasVnrArea', 'BsmtFullBath', 'ScreenPorch',
+       'KitchenAbvGr', 'LotArea', 'OverallCond', 'YearBuilt',
+       'un_1stFlrSF', 'BedroomAbvGr', 'GarageCars', 'deux_2ndFlrSF',
+       'TotRmsAbvGrd', 'MSSubClass', 'GrLivArea', 'OverallQual'],
+      dtype=object)]"
+33,0.8065148389,0.8014057759,0.005109063,0.048198543,0.0296726011,"[array(['MiscVal', 'BsmtHalfBath', 'MoSold', 'GarageYrBlt', 'FullBath',
+       'OpenPorchSF', 'YrSold', 'LowQualFinSF', 'EnclosedPorch',
+       'trois_3SsnPorch', 'HalfBath', 'PoolArea', 'TotalBsmtSF',
+       'Fireplaces', 'YearRemodAdd', 'BsmtFinSF1', 'WoodDeckSF',
+       'MasVnrArea', 'BsmtFullBath', 'ScreenPorch', 'KitchenAbvGr',
+       'LotArea', 'OverallCond', 'YearBuilt', 'un_1stFlrSF',
+       'BedroomAbvGr', 'deux_2ndFlrSF', 'TotRmsAbvGrd', 'MSSubClass',
+       'GrLivArea', 'GarageCars', 'OverallQual'], dtype=object)]"
+32,0.8064963891,0.8015558714,0.0049405177,0.0482008409,0.0296743283,"[array(['BsmtHalfBath', 'MoSold', 'GarageYrBlt', 'OpenPorchSF', 'FullBath',
+       'YrSold', 'LowQualFinSF', 'EnclosedPorch', 'trois_3SsnPorch',
+       'HalfBath', 'PoolArea', 'TotalBsmtSF', 'Fireplaces',
+       'YearRemodAdd', 'BsmtFinSF1', 'WoodDeckSF', 'MasVnrArea',
+       'BsmtFullBath', 'ScreenPorch', 'KitchenAbvGr', 'LotArea',
+       'OverallCond', 'YearBuilt', 'BedroomAbvGr', 'un_1stFlrSF',
+       'deux_2ndFlrSF', 'TotRmsAbvGrd', 'MSSubClass', 'GrLivArea',
+       'GarageCars', 'OverallQual'], dtype=object)]"
+31,0.8064777187,0.8017054856,0.0047722331,0.0482031662,0.0296826115,"[array(['MoSold', 'GarageYrBlt', 'OpenPorchSF', 'YrSold', 'FullBath',
+       'LowQualFinSF', 'EnclosedPorch', 'trois_3SsnPorch', 'HalfBath',
+       'PoolArea', 'TotalBsmtSF', 'Fireplaces', 'YearRemodAdd',
+       'BsmtFinSF1', 'WoodDeckSF', 'MasVnrArea', 'ScreenPorch',
+       'BsmtFullBath', 'LotArea', 'KitchenAbvGr', 'OverallCond',
+       'YearBuilt', 'un_1stFlrSF', 'BedroomAbvGr', 'deux_2ndFlrSF',
+       'TotRmsAbvGrd', 'MSSubClass', 'GrLivArea', 'GarageCars',
+       'OverallQual'], dtype=object)]"
+30,0.8064147867,0.801809531,0.0046052557,0.0482110033,0.0296883505,"[array(['GarageYrBlt', 'OpenPorchSF', 'LowQualFinSF', 'FullBath',
+       'EnclosedPorch', 'YrSold', 'trois_3SsnPorch', 'HalfBath',
+       'PoolArea', 'TotalBsmtSF', 'Fireplaces', 'YearRemodAdd',
+       'BsmtFinSF1', 'WoodDeckSF', 'MasVnrArea', 'ScreenPorch',
+       'BsmtFullBath', 'LotArea', 'KitchenAbvGr', 'OverallCond',
+       'YearBuilt', 'BedroomAbvGr', 'un_1stFlrSF', 'deux_2ndFlrSF',
+       'TotRmsAbvGrd', 'MSSubClass', 'GrLivArea', 'GarageCars',
+       'OverallQual'], dtype=object)]"
+29,0.8063421015,0.801903423,0.0044386785,0.0482200533,0.029636778,"[array(['LowQualFinSF', 'OpenPorchSF', 'FullBath', 'EnclosedPorch',
+       'YrSold', 'trois_3SsnPorch', 'HalfBath', 'PoolArea', 'TotalBsmtSF',
+       'YearRemodAdd', 'Fireplaces', 'WoodDeckSF', 'BsmtFinSF1',
+       'MasVnrArea', 'ScreenPorch', 'BsmtFullBath', 'KitchenAbvGr',
+       'LotArea', 'OverallCond', 'YearBuilt', 'BedroomAbvGr',
+       'un_1stFlrSF', 'deux_2ndFlrSF', 'TotRmsAbvGrd', 'MSSubClass',
+       'GrLivArea', 'GarageCars', 'OverallQual'], dtype=object)]"
+28,0.8063421015,0.801903423,0.0044386785,0.0482200533,0.029636778,"[array(['un_1stFlrSF', 'deux_2ndFlrSF', 'OpenPorchSF', 'FullBath',
+       'EnclosedPorch', 'YrSold', 'trois_3SsnPorch', 'HalfBath',
+       'PoolArea', 'GrLivArea', 'TotalBsmtSF', 'YearRemodAdd',
+       'Fireplaces', 'WoodDeckSF', 'BsmtFinSF1', 'MasVnrArea',
+       'ScreenPorch', 'BsmtFullBath', 'KitchenAbvGr', 'LotArea',
+       'OverallCond', 'YearBuilt', 'BedroomAbvGr', 'TotRmsAbvGrd',
+       'MSSubClass', 'GarageCars', 'OverallQual'], dtype=object)]"
+27,0.8063393173,0.8020685982,0.004270719,0.0482203999,0.0296408258,"[array(['deux_2ndFlrSF', 'OpenPorchSF', 'FullBath', 'EnclosedPorch',
+       'YrSold', 'trois_3SsnPorch', 'HalfBath', 'PoolArea', 'TotalBsmtSF',
+       'YearRemodAdd', 'Fireplaces', 'WoodDeckSF', 'BsmtFinSF1',
+       'MasVnrArea', 'ScreenPorch', 'BsmtFullBath', 'KitchenAbvGr',
+       'LotArea', 'OverallCond', 'YearBuilt', 'BedroomAbvGr', 'GrLivArea',
+       'TotRmsAbvGrd', 'MSSubClass', 'GarageCars', 'OverallQual'],
+      dtype=object)]"
+26,0.806337405,0.8022343839,0.0041030211,0.048220638,0.0296460592,"[array(['OpenPorchSF', 'FullBath', 'EnclosedPorch', 'YrSold',
+       'trois_3SsnPorch', 'HalfBath', 'PoolArea', 'TotalBsmtSF',
+       'YearRemodAdd', 'Fireplaces', 'WoodDeckSF', 'BsmtFinSF1',
+       'MasVnrArea', 'ScreenPorch', 'BsmtFullBath', 'KitchenAbvGr',
+       'LotArea', 'OverallCond', 'YearBuilt', 'BedroomAbvGr',
+       'TotRmsAbvGrd', 'MSSubClass', 'GarageCars', 'GrLivArea',
+       'OverallQual'], dtype=object)]"
+25,0.8062569636,0.8023197639,0.0039371997,0.0482306516,0.0296204212,"[array(['FullBath', 'YrSold', 'EnclosedPorch', 'trois_3SsnPorch',
+       'HalfBath', 'PoolArea', 'TotalBsmtSF', 'YearRemodAdd',
+       'Fireplaces', 'WoodDeckSF', 'BsmtFinSF1', 'MasVnrArea',
+       'ScreenPorch', 'BsmtFullBath', 'KitchenAbvGr', 'LotArea',
+       'OverallCond', 'YearBuilt', 'BedroomAbvGr', 'TotRmsAbvGrd',
+       'MSSubClass', 'GarageCars', 'GrLivArea', 'OverallQual'],
+      dtype=object)]"
+24,0.80617682,0.802405303,0.003771517,0.0482406261,0.029568115,"[array(['YrSold', 'EnclosedPorch', 'trois_3SsnPorch', 'PoolArea',
+       'HalfBath', 'TotalBsmtSF', 'YearRemodAdd', 'Fireplaces',
+       'BsmtFinSF1', 'WoodDeckSF', 'MasVnrArea', 'ScreenPorch',
+       'BsmtFullBath', 'KitchenAbvGr', 'LotArea', 'OverallCond',
+       'BedroomAbvGr', 'YearBuilt', 'TotRmsAbvGrd', 'MSSubClass',
+       'GarageCars', 'GrLivArea', 'OverallQual'], dtype=object)]"
+23,0.8060803738,0.8024740917,0.0036062821,0.0482526268,0.0295996988,"[array(['EnclosedPorch', 'trois_3SsnPorch', 'PoolArea', 'HalfBath',
+       'TotalBsmtSF', 'YearRemodAdd', 'Fireplaces', 'WoodDeckSF',
+       'BsmtFinSF1', 'MasVnrArea', 'ScreenPorch', 'BsmtFullBath',
+       'KitchenAbvGr', 'OverallCond', 'LotArea', 'BedroomAbvGr',
+       'YearBuilt', 'TotRmsAbvGrd', 'MSSubClass', 'GarageCars',
+       'GrLivArea', 'OverallQual'], dtype=object)]"
+22,0.8059762618,0.8025349624,0.0034412994,0.0482655781,0.029636223,"[array(['trois_3SsnPorch', 'PoolArea', 'HalfBath', 'TotalBsmtSF',
+       'YearRemodAdd', 'Fireplaces', 'WoodDeckSF', 'BsmtFinSF1',
+       'MasVnrArea', 'ScreenPorch', 'BsmtFullBath', 'KitchenAbvGr',
+       'OverallCond', 'LotArea', 'BedroomAbvGr', 'YearBuilt',
+       'TotRmsAbvGrd', 'MSSubClass', 'GarageCars', 'GrLivArea',
+       'OverallQual'], dtype=object)]"
+21,0.8058561335,0.8025794437,0.0032766897,0.0482805174,0.0296085362,"[array(['PoolArea', 'HalfBath', 'TotalBsmtSF', 'YearRemodAdd',
+       'Fireplaces', 'WoodDeckSF', 'BsmtFinSF1', 'MasVnrArea',
+       'ScreenPorch', 'BsmtFullBath', 'KitchenAbvGr', 'OverallCond',
+       'LotArea', 'BedroomAbvGr', 'YearBuilt', 'TotRmsAbvGrd',
+       'MSSubClass', 'GarageCars', 'GrLivArea', 'OverallQual'],
+      dtype=object)]"
+20,0.8056304384,0.8025165921,0.0031138463,0.0483085727,0.0296285722,"[array(['HalfBath', 'TotalBsmtSF', 'YearRemodAdd', 'Fireplaces',
+       'WoodDeckSF', 'BsmtFinSF1', 'ScreenPorch', 'MasVnrArea',
+       'BsmtFullBath', 'KitchenAbvGr', 'OverallCond', 'LotArea',
+       'BedroomAbvGr', 'YearBuilt', 'TotRmsAbvGrd', 'MSSubClass',
+       'GarageCars', 'GrLivArea', 'OverallQual'], dtype=object)]"
+19,0.8053482207,0.8023964667,0.002951754,0.0483436311,0.0296351639,"[array(['Fireplaces', 'YearRemodAdd', 'TotalBsmtSF', 'BsmtFinSF1',
+       'WoodDeckSF', 'ScreenPorch', 'MasVnrArea', 'BsmtFullBath',
+       'KitchenAbvGr', 'OverallCond', 'LotArea', 'BedroomAbvGr',
+       'YearBuilt', 'TotRmsAbvGrd', 'MSSubClass', 'GarageCars',
+       'GrLivArea', 'OverallQual'], dtype=object)]"
+18,0.804520089,0.8017228175,0.0027972715,0.0484463592,0.0295911473,"[array(['YearRemodAdd', 'TotalBsmtSF', 'BsmtFinSF1', 'WoodDeckSF',
+       'MasVnrArea', 'ScreenPorch', 'BsmtFullBath', 'OverallCond',
+       'KitchenAbvGr', 'LotArea', 'YearBuilt', 'BedroomAbvGr',
+       'TotRmsAbvGrd', 'MSSubClass', 'GarageCars', 'GrLivArea',
+       'OverallQual'], dtype=object)]"
+17,0.8038457519,0.8012061657,0.0026395862,0.0485298487,0.0297518772,"[array(['TotalBsmtSF', 'BsmtFinSF1', 'MasVnrArea', 'WoodDeckSF',
+       'ScreenPorch', 'BsmtFullBath', 'KitchenAbvGr', 'LotArea',
+       'BedroomAbvGr', 'OverallCond', 'TotRmsAbvGrd', 'MSSubClass',
+       'YearBuilt', 'GarageCars', 'GrLivArea', 'OverallQual'],
+      dtype=object)]"
+16,0.8028780896,0.8003933596,0.00248473,0.0486494044,0.0301148062,"[array(['WoodDeckSF', 'MasVnrArea', 'KitchenAbvGr', 'ScreenPorch',
+       'BsmtFullBath', 'BsmtFinSF1', 'LotArea', 'OverallCond',
+       'TotRmsAbvGrd', 'BedroomAbvGr', 'YearBuilt', 'MSSubClass',
+       'GarageCars', 'GrLivArea', 'OverallQual'], dtype=object)]"
+15,0.801243785,0.7989074399,0.0023363451,0.0488506602,0.0302398167,"[array(['ScreenPorch', 'MasVnrArea', 'KitchenAbvGr', 'BsmtFullBath',
+       'BsmtFinSF1', 'LotArea', 'TotRmsAbvGrd', 'OverallCond',
+       'BedroomAbvGr', 'YearBuilt', 'MSSubClass', 'GarageCars',
+       'GrLivArea', 'OverallQual'], dtype=object)]"
+14,0.7994973818,0.7973106922,0.0021866896,0.0490648079,0.0302741073,"[array(['MasVnrArea', 'BsmtFullBath', 'KitchenAbvGr', 'BsmtFinSF1',
+       'LotArea', 'TotRmsAbvGrd', 'OverallCond', 'BedroomAbvGr',
+       'YearBuilt', 'MSSubClass', 'GarageCars', 'GrLivArea',
+       'OverallQual'], dtype=object)]"
+13,0.7975914678,0.7955555061,0.0020359618,0.0492974535,0.0305726536,"[array(['BsmtFullBath', 'KitchenAbvGr', 'BsmtFinSF1', 'LotArea',
+       'OverallCond', 'TotRmsAbvGrd', 'BedroomAbvGr', 'MSSubClass',
+       'YearBuilt', 'GarageCars', 'GrLivArea', 'OverallQual'],
+      dtype=object)]"
+12,0.7954269097,0.793542233,0.0018846767,0.0495603462,0.0306077851,"[array(['KitchenAbvGr', 'LotArea', 'OverallCond', 'TotRmsAbvGrd',
+       'BedroomAbvGr', 'MSSubClass', 'YearBuilt', 'GarageCars',
+       'BsmtFinSF1', 'GrLivArea', 'OverallQual'], dtype=object)]"
+11,0.7929813048,0.7912489308,0.001732374,0.049855705,0.0307468094,"[array(['TotRmsAbvGrd', 'LotArea', 'OverallCond', 'BedroomAbvGr',
+       'GarageCars', 'BsmtFinSF1', 'YearBuilt', 'MSSubClass', 'GrLivArea',
+       'OverallQual'], dtype=object)]"
+10,0.7897642483,0.7881822067,0.0015820416,0.0502415888,0.0307151165,"[array(['BedroomAbvGr', 'LotArea', 'OverallCond', 'BsmtFinSF1',
+       'YearBuilt', 'GarageCars', 'MSSubClass', 'GrLivArea',
+       'OverallQual'], dtype=object)]"
+9,0.78693008,0.7855060538,0.0014240262,0.0505791061,0.0311961786,"[array(['LotArea', 'OverallCond', 'YearBuilt', 'GarageCars', 'MSSubClass',
+       'BsmtFinSF1', 'GrLivArea', 'OverallQual'], dtype=object)]"
+8,0.7830988565,0.7818314876,0.001267369,0.0510318132,0.0318370694,"[array(['OverallCond', 'YearBuilt', 'GarageCars', 'MSSubClass',
+       'BsmtFinSF1', 'OverallQual', 'GrLivArea'], dtype=object)]"
+7,0.7782940539,0.7771845996,0.0011094543,0.0515939465,0.0324802924,"[array(['YearBuilt', 'GarageCars', 'MSSubClass', 'BsmtFinSF1', 'GrLivArea',
+       'OverallQual'], dtype=object)]"
+6,0.7720795335,0.7711298649,0.0009496686,0.0523120502,0.0331603122,"[array(['MSSubClass', 'GarageCars', 'BsmtFinSF1', 'GrLivArea',
+       'OverallQual'], dtype=object)]"
+5,0.7570368631,0.7562276603,0.0008092028,0.0540107579,0.0347424003,"[array(['GarageCars', 'BsmtFinSF1', 'GrLivArea', 'OverallQual'],
+      dtype=object)]"
+4,0.7360319928,0.7353731708,0.000658822,0.0562970613,0.0357620404,"[array(['BsmtFinSF1', 'GrLivArea', 'OverallQual'], dtype=object)]"
+3,0.7057686237,0.705279461,0.0004891627,0.0594366837,0.0400074278,"[array(['GrLivArea', 'OverallQual'], dtype=object)]"
+2,0.6206380744,0.6203229898,0.0003150847,0.0674896147,0.0470953479,"[array(['OverallQual'], dtype=object)]"
